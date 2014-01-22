@@ -1,0 +1,1 @@
+java -Xmx3196m MST -f txt.txt

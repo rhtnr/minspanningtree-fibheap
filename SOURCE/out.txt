@@ -1,0 +1,17 @@
+
+D:\UF\ADS\KNair_Rohit\SOURCE>java -Xmx3196m MST -f txt.txt 
+Read Size = 3 , Read No Of Edges = 2
+Read : 0.0 1.0 5.0
+Read : 1.0 2.0 8.0
+Generating Graph in memory..
+Optimizing Random Edge Generator Function....
+Optimized Random Edge Generator Function
+Graph Generated..
+
+MST Fibonacci Scheme Output
+****************************
+13
+0 1
+1 2
+
+Time taken for Fibinacci Heap Scheme (Graph generation Time Not Included): 2 ms
